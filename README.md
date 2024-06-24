@@ -1,11 +1,6 @@
 <h2 align="left">Hi 👋! My name is Andre Lopez</h2>
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark&username=anndreloopez012" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <br clear="both">
