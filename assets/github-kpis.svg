@@ -1,0 +1,56 @@
+<svg width="500" height="170" viewBox="0 0 500 170" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Andre Lopez GitHub KPIs</title>
+  <desc id="desc">Professional GitHub KPI card for Andre Lopez</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="500" y2="170" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.55" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; transform-origin: center; }
+      @keyframes pulse { 0%,100% { opacity: .72; } 50% { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="500" height="170" rx="12" fill="url(#bg)"/>
+  <rect x="1" y="1" width="498" height="168" rx="11" stroke="#334155"/>
+  <path d="M0 1H500" stroke="url(#accent)" stroke-width="3"/>
+  <circle class="pulse" cx="455" cy="35" r="32" fill="#22C55E" fill-opacity=".12" filter="url(#glow)"/>
+  <text x="24" y="34" class="mono" fill="#22C55E" font-size="14" font-weight="700">GITHUB PROFILE</text>
+  <text x="24" y="66" class="sans" fill="#F8FAFC" font-size="28" font-weight="800">Andre Lopez</text>
+  <text x="24" y="93" class="sans" fill="#BAE6FD" font-size="16" font-weight="600">Senior Full-Stack Web Developer</text>
+  <g transform="translate(24 116)">
+    <rect width="104" height="36" rx="9" fill="#020617" fill-opacity=".64" stroke="#1E293B"/>
+    <text x="14" y="15" class="sans" fill="#94A3B8" font-size="10" font-weight="700">FOCUS</text>
+    <text x="14" y="28" class="sans" fill="#E2E8F0" font-size="13" font-weight="700">Full-Stack</text>
+  </g>
+  <g transform="translate(142 116)">
+    <rect width="104" height="36" rx="9" fill="#020617" fill-opacity=".64" stroke="#1E293B"/>
+    <text x="14" y="15" class="sans" fill="#94A3B8" font-size="10" font-weight="700">COMPANY</text>
+    <text x="14" y="28" class="sans" fill="#E2E8F0" font-size="13" font-weight="700">ALCORE</text>
+  </g>
+  <g transform="translate(260 116)">
+    <rect width="104" height="36" rx="9" fill="#020617" fill-opacity=".64" stroke="#1E293B"/>
+    <text x="14" y="15" class="sans" fill="#94A3B8" font-size="10" font-weight="700">LOCATION</text>
+    <text x="14" y="28" class="sans" fill="#E2E8F0" font-size="13" font-weight="700">Guatemala</text>
+  </g>
+  <g transform="translate(378 116)">
+    <rect width="98" height="36" rx="9" fill="#020617" fill-opacity=".64" stroke="#1E293B"/>
+    <text x="14" y="15" class="sans" fill="#94A3B8" font-size="10" font-weight="700">STACK</text>
+    <text x="14" y="28" class="sans" fill="#E2E8F0" font-size="13" font-weight="700">PHP + JS</text>
+  </g>
+</svg>

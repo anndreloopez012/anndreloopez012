@@ -72,25 +72,10 @@
   <img src="https://img.shields.io/badge/Focus-Performance%20%7C%20Automation%20%7C%20UX-1f2937?style=flat-square" alt="Focus" />
 </div>
 
----
-
-## Proyectos destacados
-
-<div align="center">
-  <a href="https://github.com/anndreloopez012/campuslands-devs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anndreloopez012&repo=campuslands-devs&theme=tokyonight&hide_border=true&border_radius=10" alt="campuslands-devs" />
-  </a>
-  <a href="https://github.com/anndreloopez012/campuslands-devs-javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anndreloopez012&repo=campuslands-devs-javascript&theme=tokyonight&hide_border=true&border_radius=10" alt="campuslands-devs-javascript" />
-  </a>
-</div>
-
----
-
 ## Actividad en vivo
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anndreloopez012&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub stats" />
+  <img src="./assets/github-kpis.svg" alt="Andre Lopez GitHub KPIs" width="49%" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anndreloopez012&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
