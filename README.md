@@ -107,11 +107,11 @@
 ## Tarjetas automaticas
 
 <div align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="98%" />
-  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit language" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anndreloopez012&theme=tokyonight" alt="Profile details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anndreloopez012&theme=tokyonight" alt="Repos per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anndreloopez012&theme=tokyonight" alt="Most commit language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anndreloopez012&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anndreloopez012&theme=tokyonight&utcOffset=-6" alt="Productive time" width="49%" />
 </div>
 
 ---
