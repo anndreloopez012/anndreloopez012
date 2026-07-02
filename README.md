@@ -17,40 +17,40 @@
 <h1 align="center">Hola, soy Andre Lopez</h1>
 
 <p align="center">
-  <strong>Senior Web Developer | Full-Stack PHP, JavaScript, TypeScript y React</strong>
+  <strong>Full-Stack Developer | Software, Cloud, Data, Security & Business Solutions</strong>
   <br />
-  Construyo soluciones web a medida, automatizaciones, productos digitales, experiencias educativas y herramientas listas para produccion desde Guatemala.
+  Desarrollo aplicaciones, plataformas web, integraciones, infraestructura cloud y soluciones tecnicas para empresas que necesitan operar mejor, vender mejor y escalar con tecnologia.
 </p>
 
 <div align="center">
   <a href="https://github.com/anndreloopez012">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;PHP+%2B+JavaScript+%2B+TypeScript+%2B+React;Cloudflare%2C+DNS%2C+automatizacion+y+deployments;Mentor%2C+constructor+y+solucionador+de+problemas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=PHP+%2B+React+%2B+JavaScript+%2B+TypeScript+%2B+Node.js;Mobile+apps+with+Capacitor;MySQL+%2B+PostgreSQL+%2B+Oracle+%2B+SQL+Server+%2B+MongoDB;Cloud+services%2C+network+infrastructure+and+cybersecurity;Consulting%2C+training+and+enterprise+software+solutions" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## En que estoy trabajando ahora
+## Que hago
 
 <table>
   <tr>
     <td width="50%">
-      <h3>ALCORE</h3>
-      <p>Desarrollo soluciones web profesionales, integraciones, infraestructura y herramientas digitales para negocios que necesitan velocidad, estabilidad y presencia online real.</p>
+      <h3>Desarrollo de software</h3>
+      <p>Construyo aplicaciones web, sistemas internos, plataformas administrativas, APIs, integraciones y productos digitales usando PHP, React, JavaScript, TypeScript, Node.js y ReactJS.</p>
     </td>
     <td width="50%">
-      <h3>Campuslands Devs</h3>
-      <p>Creo ejercicios practicos por fases para ensenar desarrollo, estructura de proyectos, Git profesional y JavaScript a estudiantes de informatica.</p>
+      <h3>Aplicaciones moviles</h3>
+      <p>Desarrollo soluciones moviles con Capacitor, conectadas a APIs, bases de datos, servicios cloud y paneles administrativos.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Automatizacion e infraestructura</h3>
-      <p>Trabajo con DNS, Cloudflare, correo, despliegues, documentacion tecnica y flujos que reducen trabajo manual.</p>
+      <h3>Cloud, redes e infraestructura</h3>
+      <p>Vendo, configuro y acompano servicios cloud, despliegues, dominios, DNS, servidores, infraestructura de red, seguridad y montaje de aplicaciones.</p>
     </td>
     <td width="50%">
-      <h3>Producto y experiencia</h3>
-      <p>Me enfoco en interfaces claras, rendimiento, buenas practicas y soluciones que se puedan mantener en el tiempo.</p>
+      <h3>Consultoria para empresas</h3>
+      <p>Doy asesorias, conferencias y acompanamiento sobre software, sistemas de terceros, automatizacion, seguridad informatica y soluciones orientadas a operacion empresarial.</p>
     </td>
   </tr>
 </table>
@@ -60,17 +60,85 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,html,css,tailwind,bootstrap,mysql,postgres,git,github,linux,cloudflare,figma,vscode&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,html,css,tailwind,bootstrap,mysql,postgres,mongodb,supabase,git,github,docker,linux,cloudflare,figma,vscode&perline=10" alt="Tech stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js-1f2937?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20CSS-1f2937?style=flat-square" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Infra-Cloudflare%20%7C%20Linux%20%7C%20DNS-1f2937?style=flat-square" alt="Infrastructure" />
-  <img src="https://img.shields.io/badge/Focus-Performance%20%7C%20Automation%20%7C%20UX-1f2937?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Backend-PHP%20%7C%20Node.js%20%7C%20Strapi-1f2937?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20ReactJS%20%7C%20TypeScript-1f2937?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Mobile-Capacitor%20Apps-1f2937?style=flat-square" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Data-MySQL%20%7C%20PostgreSQL%20%7C%20Oracle%20%7C%20SQL%20Server%20%7C%20MongoDB-1f2937?style=flat-square" alt="Databases" />
+  <img src="https://img.shields.io/badge/Cloud-Cloud%20Services%20%7C%20Deployments%20%7C%20DNS%20%7C%20Networks-1f2937?style=flat-square" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Security-Cybersecurity%20%7C%20Hardening%20%7C%20Risk%20Review-1f2937?style=flat-square" alt="Security" />
 </div>
+
+---
+
+## Areas de experiencia
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Web & Apps</h3>
+      <ul>
+        <li>PHP y arquitecturas backend</li>
+        <li>React, ReactJS y TypeScript</li>
+        <li>Node.js y APIs</li>
+        <li>Aplicaciones moviles con Capacitor</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3>Datos & Plataformas</h3>
+      <ul>
+        <li>MySQL, PostgreSQL, Oracle y SQL Server</li>
+        <li>MongoDB y bases NoSQL</li>
+        <li>Supabase y Strapi</li>
+        <li>Big Data, consultas y modelado de informacion</li>
+      </ul>
+    </td>
+    <td width="33%">
+      <h3>Infraestructura & Seguridad</h3>
+      <ul>
+        <li>Cloud services y montaje de aplicaciones</li>
+        <li>Servidores, DNS, redes y despliegues</li>
+        <li>Seguridad informatica</li>
+        <li>Revision de riesgos y buenas practicas</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Asesorias y conferencias
+
+Trabajo con empresas y equipos que necesitan convertir problemas operativos en soluciones tecnicas claras.
+
+- Asesoria en desarrollo de software y arquitectura de sistemas.
+- Evaluacion y mejora de aplicaciones existentes.
+- Asesoria sobre sistemas de terceros, integraciones y adopcion tecnologica.
+- Conferencias sobre soluciones digitales, automatizacion, cloud, seguridad y modernizacion empresarial.
+- Acompanamiento en venta, configuracion y puesta en marcha de cloud services.
+- Montaje de aplicaciones, infraestructura de red, dominios, DNS y ambientes productivos.
+
+---
+
+## Proyectos educativos
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Campuslands Devs</h3>
+      <p>Creo repositorios educativos por niveles para que estudiantes aprendan logica, Git, JavaScript, TypeScript, PHP, SQL, MongoDB, Node.js, Express y buenas practicas de desarrollo con ejercicios progresivos.</p>
+    </td>
+    <td width="50%">
+      <h3>Mentoria practica</h3>
+      <p>Me enfoco en que los estudiantes aprendan haciendo: estructura real de proyectos, flujo profesional con ramas, Pull Requests, feedback y revision tecnica.</p>
+    </td>
+  </tr>
+</table>
 
 ## Actividad en vivo
 
@@ -104,7 +172,7 @@
 ## Como trabajo
 
 ```txt
-Idea -> arquitectura clara -> desarrollo rapido -> pruebas -> deploy -> medicion -> mejora continua
+Problema -> diagnostico -> arquitectura -> desarrollo -> despliegue -> seguridad -> mejora continua
 ```
 
 <table>
@@ -114,11 +182,11 @@ Idea -> arquitectura clara -> desarrollo rapido -> pruebas -> deploy -> medicion
   </tr>
   <tr>
     <td>Entrega real</td>
-    <td>No solo construyo pantallas: conecto APIs, dominios, correo, hosting, seguridad y automatizaciones.</td>
+    <td>No solo construyo pantallas: conecto APIs, bases de datos, dominios, cloud, redes, seguridad, despliegues y automatizaciones.</td>
   </tr>
   <tr>
-    <td>Educacion tecnica</td>
-    <td>Creo material practico para que otros aprendan haciendo, usando Git, JavaScript y proyectos reales.</td>
+    <td>Vision empresarial</td>
+    <td>Analizo tecnologia desde el impacto en ventas, operacion, costos, seguridad, continuidad y crecimiento.</td>
   </tr>
   <tr>
     <td>Mejora continua</td>
@@ -142,5 +210,5 @@ Idea -> arquitectura clara -> desarrollo rapido -> pruebas -> deploy -> medicion
 <br />
 
 <div align="center">
-  <strong>Disponible para proyectos web, automatizacion, infraestructura y soluciones digitales a medida.</strong>
+  <strong>Disponible para desarrollo de software, consultoria tecnica, cloud services, infraestructura, seguridad y soluciones digitales para empresas.</strong>
 </div>
