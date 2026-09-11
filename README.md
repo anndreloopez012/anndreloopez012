@@ -8,6 +8,12 @@
   <a href="https://alcore-gt.com/">
     <img src="https://img.shields.io/badge/ALCORE-Founder%20%26%20Developer-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ALCORE" />
   </a>
+  <a href="https://kinvo.alcore-gt.com/">
+    <img src="https://img.shields.io/badge/KINVO-Creador%20del%20SaaS-0891b2?style=for-the-badge" alt="KINVO" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrelopezgt/">
+    <img src="https://img.shields.io/badge/LinkedIn-andrelopezgt-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/anndreloopez012?tab=repositories">
     <img src="https://img.shields.io/badge/Open%20Source-Active-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
   </a>
@@ -17,7 +23,7 @@
 <h1 align="center">Hola, soy Andre Lopez</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Software, Cloud, Data, Security & Business Solutions</strong>
+  <strong>Software Engineer · Full Stack · Creador de KINVO (SaaS) · Fundador de ALCORE · Instructor en Campuslands</strong>
   <br />
   Desarrollo aplicaciones, plataformas web, integraciones, infraestructura cloud y soluciones tecnicas para empresas que necesitan operar mejor, vender mejor y escalar con tecnologia.
 </p>
@@ -27,6 +33,52 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=PHP+%2B+React+%2B+JavaScript+%2B+TypeScript+%2B+Node.js;Mobile+apps+with+Capacitor;MySQL+%2B+PostgreSQL+%2B+Oracle+%2B+SQL+Server+%2B+MongoDB;Cloud+services%2C+network+infrastructure+and+cybersecurity;Consulting%2C+training+and+enterprise+software+solutions" alt="Typing SVG" />
   </a>
 </div>
+
+---
+
+## ⭐ KINVO: mi SaaS para empresas
+
+Desarrollé **KINVO**, una suite SaaS multi-tenant de mi propiedad que ofrezco como servicio desde [ALCORE](https://alcore-gt.com/).
+
+| Módulo | Qué resuelve |
+|---|---|
+| CRM | Relación con clientes y seguimiento comercial |
+| Comercial | Ventas en 4 canales: mostrador, restaurante, caja y tienda en línea |
+| CMS | Contenido y landing pages |
+| Panel financiero | Datos del negocio en vivo |
+| Recursos humanos | Verificación facial y marcaje biométrico |
+| Encuestas | Captura de datos |
+| Envíos | Rastreo GPS y monitoreo en tiempo real |
+| Correo empresarial | Email corporativo |
+| ChatAgent | Agente de IA para atención y agenda |
+
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Capacitor (PWA y móvil) · Strapi · PostgreSQL · Redis · Socket.IO
+
+<a href="https://kinvo.alcore-gt.com/"><img src="https://img.shields.io/badge/Ver%20KINVO-kinvo.alcore--gt.com-0891b2?style=for-the-badge" alt="Ver KINVO" /></a>
+<a href="https://github.com/anndreloopez012/kinvo"><img src="https://img.shields.io/badge/Vitrina-anndreloopez012%2Fkinvo-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio vitrina de KINVO" /></a>
+
+---
+
+## Proyectos en producción
+
+Casi todo mi trabajo vive en repositorios privados de clientes. Este es el resumen; el detalle está en [LinkedIn](https://www.linkedin.com/in/andrelopezgt/).
+
+**Gobierno e instituciones**
+- Rediseño del sitio web del **Diario de Centro América** (dca.gob.gt, 2024) y su **Sistema Integral de Costos**, junto con Tipografía Nacional.
+- Plataforma editorial institucional de la **Universidad de San Carlos de Guatemala** (USAC).
+- Plataforma institucional de la **Contraloría General de Cuentas**.
+- App web y PWA de **Radio TGW, La Voz de Guatemala**.
+
+**Empresas y SaaS**
+- **KINVO** y la plataforma de licencias de **ALCORE** ([alcore-gt.com](https://alcore-gt.com/)).
+- **VisualMed**: plataforma médica y su modernización.
+- Oportunidades de compras públicas en **Guatecompras** para empresas.
+- Punto de venta multiplataforma, solicitudes con firma electrónica y migración de una base legacy de 1,180 tablas (OMS).
+- Sitio web inmersivo de **SoftPlus GT** en Astro y GSAP.
+
+**Educación y herramientas**
+- **Campuslands Student OS** (Linux inmutable para laboratorios) y la app **Our Voice**.
+- Rutas de aprendizaje públicas para Campuslands y [PDF Slim Studio](https://github.com/anndreloopez012/pdf-slim-studio).
 
 ---
 
@@ -148,10 +200,6 @@ Trabajo con empresas y equipos que necesitan convertir problemas operativos en s
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anndreloopez012&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
-</div>
-
-<div align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" width="98%" />
 </div>
 
@@ -199,6 +247,12 @@ Problema -> diagnostico -> arquitectura -> desarrollo -> despliegue -> seguridad
 ## Contacto
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/andrelopezgt/">
+    <img src="https://img.shields.io/badge/LinkedIn-andrelopezgt-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://kinvo.alcore-gt.com/">
+    <img src="https://img.shields.io/badge/KINVO-kinvo.alcore--gt.com-0891b2?style=for-the-badge" alt="KINVO" />
+  </a>
   <a href="https://alcore-gt.com/">
     <img src="https://img.shields.io/badge/Sitio%20Web-alcore--gt.com-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
