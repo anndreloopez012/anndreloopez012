@@ -36,26 +36,59 @@
 
 ---
 
-## ⭐ KINVO: mi SaaS para empresas
+## ⚡ KINVO Business Suite: mi SaaS para empresas
 
-Desarrollé **KINVO**, una suite SaaS multi-tenant de mi propiedad que ofrezco como servicio desde [ALCORE](https://alcore-gt.com/).
+Desarrollé **KINVO**, una plataforma SaaS empresarial *multi-tenant* y de alto rendimiento de mi propiedad que ofrezco como servicio desde [ALCORE](https://alcore-gt.com/). Centraliza operaciones comerciales, contabilidad legal NIIF, logística en tiempo real, gestión de talento humano y agentes de Inteligencia Artificial omnicanal bajo un solo ecosistema unificado.
 
-| Módulo | Qué resuelve |
-|---|---|
-| CRM | Relación con clientes y seguimiento comercial |
-| Comercial | Ventas en 4 canales: mostrador, restaurante, caja y tienda en línea |
-| CMS | Contenido y landing pages |
-| Panel financiero | Datos del negocio en vivo |
-| Recursos humanos | Verificación facial y marcaje biométrico |
-| Encuestas | Captura de datos |
-| Envíos | Rastreo GPS y monitoreo en tiempo real |
-| Correo empresarial | Email corporativo |
-| ChatAgent | Agente de IA para atención y agenda |
+<div align="center">
+  <a href="https://github.com/anndreloopez012/core-strapi">
+    <img src="https://img.shields.io/badge/Madurez%20Corporativa-10%2F10%20Enterprise-emerald?style=for-the-badge&logo=shield" alt="Maturity" />
+  </a>
+  <img src="https://img.shields.io/badge/M%C3%B3dulos%20Activos-14%20Suites-blue?style=for-the-badge&logo=appveyor" alt="Modules" />
+  <img src="https://img.shields.io/badge/Stack-React%2018%20%7C%20TS%20%7C%20Vite%20%7C%20Strapi%205-646CFF?style=for-the-badge&logo=vite" alt="Stack" />
+  <img src="https://img.shields.io/badge/PWA-Offline%20First-5A0FC8?style=for-the-badge&logo=pwa" alt="PWA" />
+</div>
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Capacitor (PWA y móvil) · Strapi · PostgreSQL · Redis · Socket.IO
+<br />
 
-<a href="https://kinvo.alcore-gt.com/"><img src="https://img.shields.io/badge/Ver%20KINVO-kinvo.alcore--gt.com-0891b2?style=for-the-badge" alt="Ver KINVO" /></a>
-<a href="https://github.com/anndreloopez012/kinvo"><img src="https://img.shields.io/badge/Vitrina-anndreloopez012%2Fkinvo-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio vitrina de KINVO" /></a>
+<div align="center">
+  <img src="./assets/kinvo-all-modules.png" alt="KINVO Business Suite - Menú Ejecutivo de Módulos" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <br />
+  <sub><em>Vista real del orquestador central (App Launcher) con los 14 módulos corporativos interconectados.</em></sub>
+</div>
+
+<br />
+
+<details open>
+<summary><strong>🔍 Catálogo de las 14 suites operativas integradas (Click para contraer/expandir)</strong></summary>
+<br />
+
+| Suite / Dominio | Módulo | Qué resuelve |
+| :--- | :--- | :--- |
+| **Comercial & Ventas** | **CRM Pro** | Pipeline Kanban visual, cotizaciones en PDF automatizadas, embudos y seguimiento 360° de prospectos y clientes. |
+| | **Comercial & POS** | Caja rápida táctil para tiendas y restaurantes (KDS cocina), inventario multialmacén y Kardex valorizado. |
+| | **CMS & Builder** | Page Builder visual drag & drop, arquitectura de menús multinivel, blog institucional y gestor documental (*DocManager*). |
+| **Finanzas & Operación** | **Finanzas & NIIF** | Contabilidad completa de partida doble, catálogo de cuentas, libros contables oficiales y retenciones fiscales. |
+| | **Envíos & Rutas** | Despacho logístico, asignación de pilotos, manifiestos de carga y firma digital POD (*Proof of Delivery*). |
+| | **GPS Telemetría** | Rastreo vehicular satelital en vivo, odómetro digital, geocercas activas y monitoreo de trayectorias. |
+| **Talento & Asistencia** | **Recursos Humanos** | Expedientes laborales, planilla/nómina quincenal y mensual, organigrama y control de costos laborales. |
+| | **Marcaje Digital** | Check-in biométrico facial y QR dinámico con verificación de geovalla satelital y turnos rotativos. |
+| | **Encuestas 360** | Creador de formularios dinámicos, evaluación de clima laboral y métricas de servicio (NPS/CSAT). |
+| **IA & Colaboración** | **ChatAgent IA** | Bandeja omnicanal para WhatsApp Cloud API, Telegram y Meta Messenger con bots y agentes autónomos. |
+| | **Asistente RAG** | Motor de búsqueda neuronal RAG, visualizador de Grafo de Conocimiento y Vault de notas Markdown. |
+| | **Workspace Suite** | Drive corporativo, anotador colaborativo de documentos PDF, tableros Kanban y salas virtuales. |
+| | **Correo Mailcow** | Webmail corporativo integrado vía IMAP/SMTP y motor de campañas de correo masivo. |
+| **Seguridad & Tenant** | **Admin & Auditoría** | Control de acceso por roles (RBAC granular), bitácora inmutable, firewall por IP/país y respaldos de tenant. |
+
+</details>
+
+<br />
+
+<div align="center">
+  <a href="https://kinvo.alcore-gt.com/"><img src="https://img.shields.io/badge/Sitio%20Oficial-kinvo.alcore--gt.com-0891b2?style=for-the-badge" alt="Ver KINVO" /></a>
+  <a href="https://github.com/anndreloopez012/core-strapi"><img src="https://img.shields.io/badge/Repositorio%20Core-anndreloopez012%2Fcore--strapi-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio Core de KINVO" /></a>
+  <a href="https://github.com/anndreloopez012/kinvo"><img src="https://img.shields.io/badge/Vitrina%20Pública-anndreloopez012%2Fkinvo-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio vitrina de KINVO" /></a>
+</div>
 
 ---
 
